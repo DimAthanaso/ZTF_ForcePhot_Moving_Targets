@@ -2,7 +2,7 @@
 
 This repository contains the code used in the study:  
 **"Spin states of X-complex asteroids in the inner main belt-I. Investigating Athor and Zita collisional families"**  
-[Insert publication link if available]
+[https://doi.org/10.1051/0004-6361/202451363]
 
 ## 📜 License
 This code is distributed under the **MIT License**. See [LICENSE](LICENSE) for details.
@@ -18,6 +18,7 @@ If you use this code in your research, please cite our work:
   year = {Year},
   doi = {DOI/URL}
 }
+
 
 ##🚀 Usage
 ### 1. Prerequisites
