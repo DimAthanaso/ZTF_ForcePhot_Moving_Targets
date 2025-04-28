@@ -33,9 +33,7 @@ archivePrefix = {arXiv},
 
 ## 🚀 Usage
 ### 1. Prerequisites
-ZTF Forced Photometry Account:
-Register here.
-GUI login: ztffps / dontgocrazy! (not your personal credentials).
+ZTF Forced Photometry Account
 
 MOST Tool:
 Search for asteroid images at MOST.
