@@ -31,7 +31,7 @@ archivePrefix = {arXiv},
 }
 ```
 
-##🚀 Usage
+## 🚀 Usage
 ### 1. Prerequisites
 ZTF Forced Photometry Account:
 Register here.
